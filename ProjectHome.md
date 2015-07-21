@@ -1,0 +1,3 @@
+When you get a new Android phone, your contacts, calendar, and schedule come with you.  But, unfortunately, not your phone-call logs nor your SMS history.  These are an important slice of life and LifeSaver fixes that problem.
+
+Lifesaver will read your call and SMS histories and save the to your SD card.  Then, after you've moved that to your new phone, you can run LifeSaver again and it'll bring them back, so that your new phone's history will look just like the old.
